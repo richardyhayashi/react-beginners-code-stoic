@@ -4,6 +4,9 @@ function App() {
   return (
     <div>
       <Hello />
+      <Hello />
+      <Hello />
+      <Hello />
     </div>
   );
 }
