@@ -50,7 +50,7 @@ In `vite.config.js`:
 18. Using Ternary Operators In React
 19. Conditionally Rendering List Items
 20. Conditionally Rendering A Message Using Ternary
-21.
+21. Event Handling In React
 22.
 23.
 24.
