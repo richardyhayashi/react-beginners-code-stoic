@@ -34,7 +34,7 @@ In `vite.config.js`:
 02. Installing Required Tools
 03. Create React App Using Vite
 04. How React App Works
-05.
+05. Creating A Component In React
 06.
 07.
 08.
