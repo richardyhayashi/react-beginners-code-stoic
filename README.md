@@ -49,7 +49,7 @@ In `vite.config.js`:
 17. Conditional Rendering Using Element Variables
 18. Using Ternary Operators In React
 19. Conditionally Rendering List Items
-20.
+20. Conditionally Rendering A Message Using Ternary
 21.
 22.
 23.
