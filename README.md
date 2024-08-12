@@ -35,7 +35,7 @@ In `vite.config.js`:
 03. Create React App Using Vite
 04. How React App Works
 05. Creating A Component In React
-06.
+06. Auto Format React Code With Prettier
 07.
 08.
 09.
