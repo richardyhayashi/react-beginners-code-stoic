@@ -39,7 +39,7 @@ In `vite.config.js`:
 07. What Is JSX In React
 08. Reusability of Components In React
 09. What are Props In React
-10.
+10. Destructuring Props
 11.
 12.
 13.
