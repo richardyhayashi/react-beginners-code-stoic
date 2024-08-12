@@ -36,7 +36,7 @@ In `vite.config.js`:
 04. How React App Works
 05. Creating A Component In React
 06. Auto Format React Code With Prettier
-07.
+07. What Is JSX In React
 08.
 09.
 10.
