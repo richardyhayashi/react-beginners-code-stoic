@@ -1,8 +1,10 @@
-const Hello = () => {
+const Hello = (
+  props
+) => {
   return (
-    <>
-      <h1>Hello Mike</h1>
-    </>
+    <div>
+      <h1>{props.message} {props.name}</h1>
+    </div>
   );
 };
 
