@@ -2,11 +2,37 @@
 
 * Library not a framework.
 
+## React App Prep
+
+### Create React App
+
+`$ npm create vite@4.1.0` or `$ npm create vite@latest`  choices: {project-name|.}, React, Javascript
+`$ cd project-name`
+`$ npm {i|install}`
+
+### Set up port
+
+In `vite.config.js`:
+
+`export default defineConfig({`
+`***`
+`server: {`
+`    host: "0.0.0.0",`
+`    port: 3000,`
+`  },`
+`***`
+`}`
+
+### Run React App
+
+`$ npm run dev`
+
+
 ## YouTube
 
 01. Introduction To React
-02.
-03.
+02. Installing Required Tools
+03. Create React App Using Vite
 04.
 05.
 06.
