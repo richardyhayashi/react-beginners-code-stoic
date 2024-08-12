@@ -43,7 +43,7 @@ In `vite.config.js`:
 11. Immutability of Props
 12. Passing Arrays & Objects To Components Using Props
 13. Rendering Arrays Or Lists In React
-14.
+14. Rendering Array Of Objects In React
 15.
 16.
 17.
