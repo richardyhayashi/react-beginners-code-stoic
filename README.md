@@ -45,7 +45,7 @@ In `vite.config.js`:
 13. Rendering Arrays Or Lists In React
 14. Rendering Array Of Objects In React
 15. Rendering Components Inside A Loop
-16.
+16. Conditionally Rendering JSX & Components
 17.
 18.
 19.
