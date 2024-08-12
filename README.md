@@ -47,7 +47,7 @@ In `vite.config.js`:
 15. Rendering Components Inside A Loop
 16. Conditionally Rendering JSX & Components
 17. Conditional Rendering Using Element Variables
-18.
+18. Using Ternary Operators In React
 19.
 20.
 21.
