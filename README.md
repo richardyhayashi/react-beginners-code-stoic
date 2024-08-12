@@ -44,7 +44,7 @@ In `vite.config.js`:
 12. Passing Arrays & Objects To Components Using Props
 13. Rendering Arrays Or Lists In React
 14. Rendering Array Of Objects In React
-15.
+15. Rendering Components Inside A Loop
 16.
 17.
 18.
