@@ -51,8 +51,8 @@ In `vite.config.js`:
 19. Conditionally Rendering List Items
 20. Conditionally Rendering A Message Using Ternary
 21. Event Handling In React
-22.
-23.
+22. State In React, Props V/S State In React
+23. State In React
 24.
 25.
 26.
@@ -82,3 +82,15 @@ In `vite.config.js`:
 50.
 51.
 52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
