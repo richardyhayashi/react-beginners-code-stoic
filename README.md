@@ -40,7 +40,7 @@ In `vite.config.js`:
 08. Reusability of Components In React
 09. What are Props In React
 10. Destructuring Props
-11.
+11. Immutability of Props
 12.
 13.
 14.
